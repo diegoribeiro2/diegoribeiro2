@@ -25,7 +25,8 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 - **Ferramentas de Containerização:**  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-- **Frameworks e Bibliotecas de Desenvolvimento:**  
+- **Frameworks e Bibliotecas de Desenvolvimento:**
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) 
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
