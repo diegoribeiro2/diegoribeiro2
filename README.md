@@ -11,7 +11,6 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 - **Linguagens de Programação:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-  ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 - **Ferramentas de BI e Análise de Dados:**  
   ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
