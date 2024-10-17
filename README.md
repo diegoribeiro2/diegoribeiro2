@@ -54,10 +54,10 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diego-ribeiro-55587337/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diegoribeiro.jpg/?hl=pt-br)
 
 ---
 
 🔥 **Como entrar em contato comigo:**
 - 📧 **E-mail:** [diegosribeiro@gmail.com](mailto:diegosribeiro@gmail.com)
 - 📞 **Telefone:** (27) 98169-4345
--->
