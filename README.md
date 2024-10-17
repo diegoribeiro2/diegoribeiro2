@@ -52,8 +52,8 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 
 ## 📊 GitHub Stats
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=dark)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoribeiro2&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoribeiro2&layout=compact&theme=dark)
 
 ---
 
