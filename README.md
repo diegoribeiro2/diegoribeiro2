@@ -1,4 +1,4 @@
-# Olá, eu sou o Diego Ribeiro ! 👋
+# Olá, eu sou o Diego Ribeiro  ! 👋
 
 Engenheiro eletricista com MBA em Gestão de Projetos e especialização em Ciência de Dados, apaixonado por tecnologia e sempre buscando novos desafios. 
 Atualmente, estou em transição para a área de dados, com muita vontade de aplicar meus conhecimentos e experiências para gerar impacto positivo.
