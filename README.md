@@ -26,6 +26,8 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 - **Ferramentas de Desenvolvimento:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white) 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white) 
   ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white) 
   ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) 
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) 
