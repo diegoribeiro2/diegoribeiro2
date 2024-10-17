@@ -1,4 +1,4 @@
-# Olá, eu sou o Diego Ribeiro! 👋
+# Olá, eu sou o Diego Ribeiro ! 👋
 
 Engenheiro eletricista com MBA em Gestão de Projetos e especialização em Ciência de Dados, apaixonado por tecnologia e sempre buscando novos desafios. 
 Atualmente, estou em transição para a área de dados, com muita vontade de aplicar meus conhecimentos e experiências para gerar impacto positivo.
@@ -54,20 +54,10 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diego-ribeiro-55587337/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/diegoribeiro2)
-
----
-
-## 📊 GitHub Stats
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoribeiro2&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoribeiro2&layout=compact&theme=dark)
 
 ---
 
 🔥 **Como entrar em contato comigo:**
 - 📧 **E-mail:** [diegosribeiro@gmail.com](mailto:diegosribeiro@gmail.com)
 - 📞 **Telefone:** (27) 98169-4345
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diego-ribeiro-55587337/) **Diego Ribeiro**
-
 -->
