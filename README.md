@@ -16,6 +16,7 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 - **Ferramentas de BI e Análise de Dados:**  
   ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
   ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+  ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white)
 
 - **Plataformas e Ferramentas Cloud:**  
   ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
@@ -33,6 +34,11 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
   ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
 
+- **Outras Competências:**  
+  ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=Microsoft&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white)
+  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?style=flat-square&logo=Autodesk&logoColor=white)
+
 ---
 
 ## 📚 Principais Bibliotecas Python
@@ -46,18 +52,20 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 - ![Sidetable](https://img.shields.io/badge/-Sidetable-3776AB?style=flat-square&logo=Python&logoColor=white)
 - ![Missingno](https://img.shields.io/badge/-Missingno-333333?style=flat-square&logo=Python&logoColor=white)
 - ![Pandas Profiling](https://img.shields.io/badge/-Pandas%20Profiling-150458?style=flat-square&logo=Pandas&logoColor=white)
-- ![XGBoost](https://img.shields.io/badge/-XGBoost-EB4A1C?style=flat-square&logo=XGBoost&logoColor=white)
-- ![Regex](https://img.shields.io/badge/-Regex-5B228C?style=flat-square&logo=Regex&logoColor=white)
+- ![XGBoost](https://img.shields.io/badge/-XGBoost-EB0028?style=flat-square&logo=XGBoost&logoColor=white)
+- ![Regex](https://img.shields.io/badge/-Regex-3776AB?style=flat-square&logo=Python&logoColor=white)
+- ![Statsmodels](https://img.shields.io/badge/-Statsmodels-3776AB?style=flat-square&logo=Python&logoColor=white)
+- ![Yellowbrick](https://img.shields.io/badge/-Yellowbrick-FFD43B?style=flat-square&logo=Python&logoColor=white)
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🔥 Como entrar em contato comigo:
+📧 **E-mail:** diegosribeiro@gmail.com  
+📞 **Telefone:** (27) 98169-4345
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diego-ribeiro-55587337/)
+---
+
+## 🌐 Conecte-se comigo:
+
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diegoribeiro.jpg/?hl=pt-br)
-
----
-
-🔥 **Como entrar em contato comigo:**
-- 📧 **E-mail:** [diegosribeiro@gmail.com](mailto:diegosribeiro@gmail.com)
-- 📞 **Telefone:** (27) 98169-4345
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diego-ribeiro-55587337/)
