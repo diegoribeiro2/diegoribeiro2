@@ -50,7 +50,7 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 
 ---
 
-## Minhas Contribuições
+# Olá, eu sou Diego Ribeiro!
 
 ## Minhas Linguagens e Contribuições
 
@@ -64,6 +64,20 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
     </td>
   </tr>
 </table>
+
+## Habilidades
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=ffffff)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C94C?style=flat-square&logo=powerbi&logoColor=000000)
+
+## Estatísticas de Commits
+
+![Commits](https://badges.pufler.dev/commits/diegoribeiro2)
+
+## Troféus do GitHub
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=diegoribeiro2)
 
 ---
 
