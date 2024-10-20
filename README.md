@@ -52,33 +52,6 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 
 # Olá, eu sou Diego Ribeiro!
 
-## Minhas Linguagens e Contribuições
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoribeiro2&layout=compact&theme=radical" alt="Linguagens mais usadas" width="350px" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=diegoribeiro2&theme=radical" alt="GitHub Streak" width="350px" />
-    </td>
-  </tr>
-</table>
-
-## Habilidades
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=ffffff)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C94C?style=flat-square&logo=powerbi&logoColor=000000)
-
-## Estatísticas de Commits
-
-![Commits](https://badges.pufler.dev/commits/diegoribeiro2)
-
-## Troféus do GitHub
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=diegoribeiro2)
-
 ---
 
 ## 🔥 Como entrar em contato comigo:
