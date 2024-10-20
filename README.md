@@ -50,6 +50,17 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 
 ---
 
+## Minhas Estatísticas no GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diegoribeiro2&show_icons=true&theme=radical)
+
+## Linguagens Mais Usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoribeiro2&layout=compact&theme=radical)
+
+## Status de Contribuições
+![GitHub Streak](https://streak-stats.demolab.com?user=diegoribeiro2&theme=radical)
+
+---
+
 ## 🔥 Como entrar em contato comigo:
 📧 **E-mail:** diegosribeiro@gmail.com  
 📞 **Telefone:** (27) 98169-4345
