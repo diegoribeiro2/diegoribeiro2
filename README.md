@@ -52,9 +52,18 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 
 ## Minhas Contribuições
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=diegoribeiro2&theme=radical" alt="GitHub Streak" width="300px"/>
-</p>
+## Minhas Linguagens e Contribuições
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoribeiro2&layout=compact&theme=radical" alt="Linguagens mais usadas" width="350px" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=diegoribeiro2&theme=radical" alt="GitHub Streak" width="350px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
