@@ -50,10 +50,6 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 
 ---
 
-# Olá, eu sou Diego Ribeiro!
-
----
-
 ## 🔥 Como entrar em contato comigo:
 📧 **E-mail:** diegosribeiro@gmail.com  
 📞 **Telefone:** (27) 98169-4345
