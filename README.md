@@ -53,7 +53,7 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 ## Minhas Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=diegoribeiro2&theme=radical" alt="GitHub Streak" width="600px"/>
+  <img src="https://streak-stats.demolab.com?user=diegoribeiro2&theme=radical" alt="GitHub Streak" width="300px"/>
 </p>
 
 ---
