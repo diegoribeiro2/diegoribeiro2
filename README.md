@@ -8,54 +8,45 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
 
 ## 🚀 Minhas Competências
 
-### Linguagens de Programação
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) |
-|:---:|:---:|
-| Python | SQL |
+- **Linguagens de Programação:**  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-### Ferramentas de BI e Análise de Dados
-| ![Power BI](https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg) | ![Excel](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) | ![Metabase](https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg) |
-|:---:|:---:|:---:|
-| Power BI | Excel | Metabase |
+- **Ferramentas de BI e Análise de Dados:**  
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
+  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+  ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white)
 
-### Plataformas e Ferramentas Cloud
-| ![Google Cloud Platform](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg) | ![Google Colab](https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg) |
-|:---:|:---:|
-| GCP | Google Colab |
+- **Plataformas e Ferramentas Cloud:**  
+  ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white)
 
-### Ferramentas de Containerização
-| ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) |
-|:---:|
-| Docker |
+- **Ferramentas de Containerização:**  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-### Ferramentas de Desenvolvimento
-| ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) | ![Visual Studio Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) | ![Anaconda](https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg) |
-|:---:|:---:|:---:|
-| Git | Visual Studio Code | Anaconda |
-| ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg) | ![Streamlit](https://avatars.githubusercontent.com/u/45109972?s=200&v=4) | ![FastAPI](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg) |
-| Jupyter | Streamlit | FastAPI |
-| ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg) |
-| Flask |
+- **Ferramentas de Desenvolvimento:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white) 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white) 
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white) 
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) 
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) 
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) 
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 
-### Frameworks e Bibliotecas para Machine Learning
-| ![MLflow](https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg) | ![Apache Spark](https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg) |
-|:---:|:---:|
-| MLflow | Apache Spark |
+- **Frameworks e Bibliotecas para Machine Learning:**  
+  ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
 
-### Outras Competências
-| ![Microsoft Project](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) | ![MATLAB](https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg) | ![AutoCAD](https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg) |
-|:---:|:---:|:---:|
-| Microsoft Project | MATLAB | AutoCAD |
+- **Outras Competências:**  
+  ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=Microsoft&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white)
+  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?style=flat-square&logo=Autodesk&logoColor=white)
 
 ---
 
 ## 📚 Principais Bibliotecas Python
 
-| ![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg) | ![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg) | ![Matplotlib](https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg) |
-|:---:|:---:|:---:|
-| Pandas | NumPy | Matplotlib |
-| ![Seaborn](https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg) | ![Plotly](https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg) | ![scikit-learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg) |
-| Seaborn | Plotly | Scikit-Learn |
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Sidetable](https://img.shields.io/badge/-Sidetable-3776AB?style=flat-square&logo=Python&logoColor=white) ![Missingno](https://img.shields.io/badge/-Missingno-333333?style=flat-square&logo=Python&logoColor=white) ![Pandas Profiling](https://img.shields.io/badge/-Pandas%20Profiling-150458?style=flat-square&logo=Pandas&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB0028?style=flat-square&logo=XGBoost&logoColor=white) ![Regex](https://img.shields.io/badge/-Regex-3776AB?style=flat-square&logo=Python&logoColor=white) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-3776AB?style=flat-square&logo=Python&logoColor=white) ![Yellowbrick](https://img.shields.io/badge/-Yellowbrick-FFD43B?style=flat-square&logo=Python&logoColor=white) ![Pickle](https://img.shields.io/badge/-Pickle-1C3F94?style=flat-square&logo=Python&logoColor=white)
 
 ---
 
