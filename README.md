@@ -34,6 +34,8 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)   
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)   
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)   
+  ![Poetry](https://img.shields.io/badge/-Poetry-00B4D8?style=flat-square&logo=Poetry&logoColor=white)  
+  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)  
 
 - **Frameworks e Bibliotecas para Machine Learning:**  
   ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white)  
@@ -44,8 +46,6 @@ Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a
   ![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=Microsoft&logoColor=white)  
   ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white)  
   ![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?style=flat-square&logo=Autodesk&logoColor=white)  
-  ![Poetry](https://img.shields.io/badge/-Poetry-00B4D8?style=flat-square&logo=Poetry&logoColor=white)  
-  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)  
 
 ---  
 
