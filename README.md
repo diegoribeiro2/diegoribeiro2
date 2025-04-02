@@ -31,7 +31,24 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 
 ## 📚 Principais Bibliotecas Python  
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Sidetable](https://img.shields.io/badge/-Sidetable-3776AB?style=flat-square&logo=Python&logoColor=white) ![Missingno](https://img.shields.io/badge/-Missingno-333333?style=flat-square&logo=Python&logoColor=white) ![Pandas Profiling](https://img.shields.io/badge/-Pandas%20Profiling-150458?style=flat-square&logo=Pandas&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB0028?style=flat-square&logo=XGBoost&logoColor=white) ![Regex](https://img.shields.io/badge/-Regex-3776AB?style=flat-square&logo=Python&logoColor=white) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-3776AB?style=flat-square&logo=Python&logoColor=white) ![Yellowbrick](https://img.shields.io/badge/-Yellowbrick-FFD43B?style=flat-square&logo=Python&logoColor=white) ![Pickle](https://img.shields.io/badge/-Pickle-1C3F94?style=flat-square&logo=Python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white) 
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
+![Sidetable](https://img.shields.io/badge/-Sidetable-3776AB?style=flat-square&logo=Python&logoColor=white) 
+![Missingno](https://img.shields.io/badge/-Missingno-333333?style=flat-square&logo=Python&logoColor=white) 
+![Pandas Profiling](https://img.shields.io/badge/-Pandas%20Profiling-150458?style=flat-square&logo=Pandas&logoColor=white) 
+![XGBoost](https://img.shields.io/badge/-XGBoost-EB0028?style=flat-square&logo=XGBoost&logoColor=white) 
+![Regex](https://img.shields.io/badge/-Regex-3776AB?style=flat-square&logo=Python&logoColor=white) 
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-3776AB?style=flat-square&logo=Python&logoColor=white) 
+![Yellowbrick](https://img.shields.io/badge/-Yellowbrick-FFD43B?style=flat-square&logo=Python&logoColor=white) 
+![Pickle](https://img.shields.io/badge/-Pickle-1C3F94?style=flat-square&logo=Python&logoColor=white) 
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white) 
+![Ruff](https://img.shields.io/badge/-Ruff-000000?style=flat-square&logo=Ruff&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFB000?style=flat-square&logo=Hugging-Face&logoColor=white) 
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white)  
 
 ---  
 
