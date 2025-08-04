@@ -4,6 +4,10 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 
 ---  
 
+[![Diego's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=diegoribeiro2&theme=pacman)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---  
+
 ## 🚀 Minhas Competências  
 
 ### **Linguagens de Programação:**  
