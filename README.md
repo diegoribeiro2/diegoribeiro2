@@ -5,7 +5,7 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ---  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diegoribeiro2/diegoribeiro2/output/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições" />
+  <img src="https://github-profile-snake.vercel.app/diegoribeiro2" alt="Cobrinha animada" />
 </p>
 
 ---  
