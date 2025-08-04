@@ -3,9 +3,8 @@
 Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ciência de Dados, apaixonado por tecnologia e sempre buscando novos desafios.  Atuo na área de dados e machine learning, aplicando meus conhecimentos e experiências para gerar impacto positivo.  Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a inovação e o crescimento de uma empresa.  
 
 ---  
-<br clear="both">
+[![Diego's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=diegoribeiro2&theme=snake)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---  
 
