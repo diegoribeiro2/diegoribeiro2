@@ -5,7 +5,7 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ---  
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/diegoribeiro2/SEU-REPO/main/assets/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---  
 
