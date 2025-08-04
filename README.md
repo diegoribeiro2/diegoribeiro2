@@ -55,8 +55,6 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 
 ![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoribeiro2&show_icons=true&theme=github_dark)
 
-[![Diego's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=diegoribeiro2&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 ---  
 
 ## 📌 Linguagens mais utilizadas
