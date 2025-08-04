@@ -73,6 +73,9 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 📧 **E-mail:** diegosribeiro@gmail.com  
 📞 **Telefone:** (27) 98169-4345  
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:ff66cc&height=150&section=footer)
+
+
 ---  
 
 ## 🌐 Conecte-se comigo:  
