@@ -2,20 +2,21 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Atualiza diariamente (opcional)
     - cron: "0 0 * * *"
-  workflow_dispatch:  # Permite acionar manualmente
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Adicione esta linha
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: "diegoribeiro2"  # Seu usuário aqui
+          github_user_name: "diegoribeiro2"
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
