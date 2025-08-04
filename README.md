@@ -4,12 +4,6 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 
 ---  
 
-<p align="center">
-  <img src="https://github-profile-snake.vercel.app/diegoribeiro2" alt="Cobrinha animada" />
-</p>
-
----  
-
 ## 🚀 Minhas Competências  
 
 ### **Linguagens de Programação:**  
