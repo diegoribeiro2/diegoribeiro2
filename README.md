@@ -4,10 +4,8 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 
 ---  
 
-![Snake animation](https://raw.githubusercontent.com/diegoribeiro2/diegoribeiro2/output/github-snake.svg)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diegoribeiro2/diegoribeiro2/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/diegoribeiro2/diegoribeiro2/blob/output/github-contribution-grid-snake.svg" alt="Minhas contribuições em formato de cobrinha" />
 </p>
 
 ---  
