@@ -71,4 +71,3 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:ff66cc&height=150&section=footer)
 
-[![Diego's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=diegoribeiro2&theme=pacman)](https://github.com/Ashutosh00710/github-readme-activity-graph)
