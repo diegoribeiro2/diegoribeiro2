@@ -26,7 +26,7 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Poetry](https://img.shields.io/badge/-Poetry-00B4D8?style=flat-square&logo=Poetry&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)  
 
 
-### **Frameworks e Bibliotecas para Machine Learning:**  
+### **Frameworks e Bibliotecas para Machine Learning e Inteligência Artificial:**  
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-17B0B8?style=flat-square&logo=Apache-Airflow&logoColor=white) 
