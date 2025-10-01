@@ -27,7 +27,13 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 
 
 ### **Frameworks e Bibliotecas para Machine Learning:**  
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-17B0B8?style=flat-square&logo=Apache-Airflow&logoColor=white)  
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white) 
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-17B0B8?style=flat-square&logo=Apache-Airflow&logoColor=white) 
+![LangChain](https://img.shields.io/badge/-LangChain-1E90FF?style=flat-square&logo=Chainlink&logoColor=white) 
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square&logo=Python&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black)  
 
 
 ### **Outras Competências:**  
