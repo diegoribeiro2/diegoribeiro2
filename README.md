@@ -34,6 +34,8 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square&logo=Python&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white) 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black)  
+![Agno](https://img.shields.io/badge/-Agno-7B68EE?style=flat-square&logo=Python&logoColor=white)
+![Grok](https://img.shields.io/badge/-Grok-FF4500?style=flat-square&logo=xai&logoColor=white)
 
 
 ### **Outras Competências:**  
@@ -59,7 +61,8 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ![Pickle](https://img.shields.io/badge/-Pickle-1C3F94?style=flat-square&logo=Python&logoColor=white) 
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white) 
 ![Ruff](https://img.shields.io/badge/-Ruff-000000?style=flat-square&logo=Ruff&logoColor=white) 
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white)  
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic&logoColor=white)
 
 ---  
 
