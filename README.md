@@ -37,6 +37,7 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black)  
 ![Agno](https://img.shields.io/badge/-Agno-7B68EE?style=flat-square&logo=Python&logoColor=white)
 ![Grok](https://img.shields.io/badge/-Grok-FF4500?style=flat-square&logo=xai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-00BFFF?style=flat-square&logo=Python&logoColor=white)
 
 
 ### **Outras Competências:**  
@@ -64,6 +65,14 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ![Ruff](https://img.shields.io/badge/-Ruff-000000?style=flat-square&logo=Ruff&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-2C5BB4?style=flat-square&logo=Python&logoColor=white)
+
+
+
+
+
+
+
 
 ---  
 
