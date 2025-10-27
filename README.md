@@ -34,7 +34,6 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square&logo=Python&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white) 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black)
-![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=flat-square&logo=HuggingFace&logoColor=white)
 ![Agno](https://img.shields.io/badge/-Agno-7B68EE?style=flat-square&logo=Python&logoColor=white)
 ![Grok](https://img.shields.io/badge/-Grok-FF4500?style=flat-square&logo=xai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-00BFFF?style=flat-square&logo=Python&logoColor=white)
@@ -68,6 +67,7 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-2C5BB4?style=flat-square&logo=Python&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/-FastMCP-1ABC9C?style=flat-square&logo=Python&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=flat-square&logo=HuggingFace&logoColor=white)
 
 ---  
 
