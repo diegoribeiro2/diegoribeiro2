@@ -68,6 +68,9 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 ![Requests](https://img.shields.io/badge/-Requests-2C5BB4?style=flat-square&logo=Python&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/-FastMCP-1ABC9C?style=flat-square&logo=Python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?style=flat-square&logo=HuggingFace&logoColor=white)
+![Datasets](https://img.shields.io/badge/-Datasets-0052CC?style=flat-square&logo=HuggingFace&logoColor=white)
+![Torch](https://img.shields.io/badge/-Torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 
 ---  
 
