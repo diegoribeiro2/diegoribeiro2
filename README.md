@@ -15,7 +15,7 @@ Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ci�
 
   
 ### **Plataformas e Ferramentas Cloud:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square) ![Streamlit Cloud](https://img.shields.io/badge/-Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Hugging Face Spaces](https://img.shields.io/badge/-Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  
 
 
 ### **Ferramentas de Containerização:**  
