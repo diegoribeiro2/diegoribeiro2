@@ -11,8 +11,7 @@ Minha missão é simples: transformar dados e IA em produtos reais, úteis e que
 ## 📌 Projetos em Destaque
 
 🔧 Projeto MLOps Completo (AWS + Terraform + CI/CD)
-
-Pipeline completo em produção com Airflow, MLflow, S3, EC2 e deploy automatizado via GitHub Actions.
+  Pipeline completo em produção com Airflow, MLflow, S3, EC2 e deploy automatizado via GitHub Actions.
 Infraestrutura como código + orquestração + tracking + deploy + API.
 
 🥗 IA Nutricionista (Agente Inteligente + Telegram)
