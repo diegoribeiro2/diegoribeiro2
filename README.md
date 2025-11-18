@@ -1,40 +1,98 @@
-# Olá, eu sou o Diego Ribeiro👋  
+# 👋 Olá, eu sou Diego Ribeiro
 
-Cientista de Dados & Engenheiro de Machine Learning
+**Cientista de Dados & Engenheiro de Machine Learning**  
 
-Especializado em IA Generativa (LLMs, RAG, agentes), MLOps, Machine Learning tradicional e desenvolvimento de aplicações inteligentes. Construo soluções ponta a ponta: da ingestão de dados à implantação em produção com pipelines robustos, automação, infraestrutura como código e APIs escaláveis.
+Especializado em **IA Generativa (LLMs, RAG, agentes inteligentes)**, **MLOps**, **Machine Learning tradicional** e **desenvolvimento de aplicações inteligentes**.  
+Transformo dados e IA em **produtos reais e escaláveis**, do pipeline de dados à produção.
 
-Minha missão é simples: transformar dados e IA em produtos reais, úteis e que resolvem problemas.
+---
 
----  
+## 🚀 Minha Missão
+Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **modelos de IA, automação e infraestrutura profissional**, com deploy confiável e fácil manutenção.
 
-## 📌 Projetos em Destaque
+---
 
-🔧 Projeto MLOps Completo (AWS + Terraform + CI/CD)
+## 🔥 Projetos Estratégicos
 
-Pipeline completo em produção com Airflow, MLflow, S3, EC2 e deploy automatizado via GitHub Actions.
+### **1. IA Generativa, RAG e Agentes**
+- **[Oráculo Chatbot](https://github.com/diegoribeiro2/Oraculo_Chatbot)**  
+  Chat inteligente que conversa com seus próprios dados (YouTube, PDFs, CSVs, TXT) usando **LangChain + LLMs (OpenAI/Grok)**.  
+  ✅ Integração com Streamlit para interface rápida e prática.
 
-Infraestrutura como código + orquestração + tracking + deploy + API.
+- **[IA Nutricionista Telegram](https://github.com/diegoribeiro2/IA_nutricionista_telegram)**  
+  Agente inteligente que analisa imagens de refeições e oferece recomendações nutricionais personalizadas.  
+  ✅ Multimodal (visão + texto) e deploy em Telegram.
 
-🥗 IA Nutricionista (Agente Inteligente + Telegram)
+- **[Aplicativo de RAG e Webscraping](https://github.com/diegoribeiro2/Aplicativo_de_RAG_e_Webscraping)**  
+  Cria chat inteligente com conteúdos oficiais sempre atualizados via **web scraping** + **RAG**.  
+  ✅ Ideal para documentações ou FAQs automáticas.
 
-Agente que combina visão computacional + LLM para orientar alimentação, analisando refeições via imagem.
+- **[MeetGPT – Transcrição e Resumo de Reuniões](https://github.com/diegoribeiro2/MeetGPT-Transcricao_de_reunioes_com_IA)**  
+  Transcreve reuniões em tempo real com **Whisper** e gera resumos contextuais via GPT.  
+  ✅ Web App pronto para uso corporativo.
 
-🎙 MeetGPT — Transcrição e Resumo de Reuniões
+- **[Newsletter Financeira](https://github.com/diegoribeiro2/Newsletter_financeira)**  
+  Agente que monitora o mercado financeiro, gera análises e envia **newsletter automatizada por e-mail**.  
 
-Web App que captura áudio, transcreve com Whisper e gera resumos contextuais com GPT.
+- **[Servidor API Agente de PDF](https://github.com/diegoribeiro2/Servidor_api_agente_de_pdf)**  
+  Processa e consulta PDFs com **FastAPI + AgentOS + Streamlit**, respondendo em linguagem natural.  
 
-📊 Análise de Clustering RFV
+---
 
-Segmentação de clientes para marketing baseada em comportamento.
+### **2. MLOps & Deploy**
+- **[Projeto MLOps Completo](https://github.com/diegoribeiro2/Projeto_MLOps_Completo)**  
+  Pipeline completo na AWS: **Terraform, EC2, S3, Airflow, MLflow** e deploy automatizado via **GitHub Actions**.  
+  ✅ Mostra entrega de ML em produção com CI/CD.
 
-🎬 Previsão de Churn em Streaming
+- **[CI/CD Pipelines](https://github.com/diegoribeiro2/ci_cd)**  
+  Automação de testes, lint, integração e deploy via Docker + GitHub Actions.  
 
-Modelo de classificação para identificar usuários com alta probabilidade de cancelamento.
+---
 
-🔮 Oráculo Chatbot (RAG + Streamlit + LangChain)
+### **3. Machine Learning Tradicional & Análise**
+- **[Previsão de Churn – Streaming](https://github.com/diegoribeiro2/Previsao_de_Churn_em_Plataforma_de_Streaming)**  
+  Modelo de classificação para identificar clientes com risco de cancelamento.
 
-Chat que conversa com dados próprios (YouTube, PDFs, CSVs, TXTs) usando RAG e LLMs.
+- **[Análise de Clustering RFV](https://github.com/diegoribeiro2/Analise_de_Clustering_para_Metricas_RFV)**  
+  Segmentação de clientes baseada em comportamento para marketing.
+
+- **[Estimativa de Valor de Seguro](https://github.com/diegoribeiro2/Aplicativo_de_Estimativa_de_Valor_de_Seguro)**  
+  API de ML para regressão de valores de seguro com deploy em Streamlit.
+
+---
+
+### **4. Dashboards & BI**
+- **[Dashboard de Performance de Atendimento](https://github.com/diegoribeiro2/Dashboard_de_Performance_de_Atendimento-SQL)** – SQL + Power BI  
+- **[Dashboard E-commerce](https://github.com/diegoribeiro2/Previsao_de_Resultados_de_um_E-commerce)** – Excel + Power BI  
+- **[Dashboard Agência de Marketing Digital](https://github.com/diegoribeiro2/Dashboard_Gerencial_para_Agencia_de_Marketing_Digital)** – Visualização de métricas estratégicas
+
+---
+
+### **5. Engenharia de Dados & ETL**
+- **[Processamento de Dados da Receita Federal](https://github.com/diegoribeiro2/Processamento_De_Dados_Da_Receita_Federal)** – ETL completo em Python  
+- **[Estruturação de Dados para RFM](https://github.com/diegoribeiro2/Estruturacao_de_Dados_para_Analise_RFM_em_E-commerce)** – Preparação de dados para análise de clientes
+
+---
+
+## 🛠 Tecnologias & Ferramentas
+**Linguagens:** Python, SQL  
+**Frameworks / Bibliotecas:** FastAPI, Streamlit, LangChain, Hugging Face, Grok, MLflow, Airflow, Pandas, scikit-learn, PyTorch, XGBoost  
+**Cloud & Infra:** AWS, GCP, Terraform, Docker, Render, Streamlit Cloud  
+**BI & Visualização:** Power BI, Excel, Metabase  
+**Outros:** Git, GitHub Actions, VS Code, Jupyter, AgentOS, CrewAI
+
+---
+
+## 📈 Estatísticas GitHub
+- **409 contributions** no último ano  
+- Atualizações consistentes em **projetos de IA e MLOps**
+
+---
+
+## 📫 Contato
+- Email: diegosribeiro@gmail.com  
+- Telefone: +55 27 98169-4345  
+- [LinkedIn](https://www.linkedin.com/in/diegoribeiro/) | [Instagram](https://www.instagram.com/diegoribeiro/)
 
 
 ---  
