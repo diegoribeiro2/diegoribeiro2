@@ -76,7 +76,7 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
 
 ## 🛠 Tecnologias & Ferramentas
 **Linguagens:** Python, SQL  
-**Frameworks / Bibliotecas:** FastAPI, Streamlit, LangChain, Agno, CrewAI, Hugging Face, Grok, MLflow, Airflow, Pandas, scikit-learn, PyTorch, XGBoost  
+**Frameworks / Bibliotecas:** FastAPI, Streamlit, LangChain, Agno, CrewAI, Hugging Face, Grok, MLflow, Airflow, Pandas, scikit-learn, Torch, Transformers, XGBoost  
 **Cloud & Infra:** AWS, GCP, Terraform, Docker, Render, Streamlit Cloud  
 **BI & Visualização:** Power BI, Excel, Metabase, SQL Server  
 **Outros:** Git, GitHub Actions, VS Code, Jupyter, AgentOS
