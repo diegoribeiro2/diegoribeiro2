@@ -2,7 +2,7 @@
 
 Cientista de Dados & Engenheiro de Machine Learning
 
-Especializado em IA Generativa (LLMs, RAG, agentes), MLOps, Machine Learning tradicional e desenvolvimento de aplicações inteligentes. Construo soluções ponta a ponta: da ingestão de dados à implantação em produção com pipelines robustos, automação, infraestrutura como código e APIs escaláveis.
+Especializado em IA Generativa (LLMs, RAG, agentes) e MLOps, Machine Learning tradicional e desenvolvimento de aplicações inteligentes. Construo soluções ponta a ponta: da ingestão de dados à implantação em produção com pipelines robustos, automação, infraestrutura como código e APIs escaláveis.
 
 Minha missão é simples: transformar dados e IA em produtos reais, úteis e que resolvem problemas.
 
