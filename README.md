@@ -1,6 +1,6 @@
 # Olá, eu sou o Diego Ribeiro👋  
 
-Engenheiro eletricista, MBA em Gestão de Projetos e com especialização em Ciência de Dados, apaixonado por tecnologia e sempre buscando novos desafios.  Atuo na área de dados (machine learning e inteligência artificial), aplicando meus conhecimentos e experiências para gerar impacto positivo.  Acredito que a tecnologia, aliada à análise de dados, é um fator chave para a inovação e o crescimento de uma empresa.  
+Engenheiro Eletricista com MBA em Gestão de Projetos e Especialização em Ciência de Dados, atuando em Machine Learning, IA Generativa (LLMs, NLP, RAG e agentes) e MLOps. Desenvolvo soluções inteligentes que combinam pipelines de dados, modelos preditivos, automações e aplicações com LLMs, sempre orientado a impacto, eficiência e tomadas de decisão melhores, aplicando o framework CRISP-DM, para projetos de dados.
 
 ---  
 
