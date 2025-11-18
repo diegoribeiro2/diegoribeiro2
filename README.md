@@ -8,6 +8,37 @@ Minha missão é simples: transformar dados e IA em produtos reais, úteis e que
 
 ---  
 
+## 📌 Projetos em Destaque
+
+🔧 Projeto MLOps Completo (AWS + Terraform + CI/CD)
+
+Pipeline completo em produção com Airflow, MLflow, S3, EC2 e deploy automatizado via GitHub Actions.
+
+Infraestrutura como código + orquestração + tracking + deploy + API.
+
+🥗 IA Nutricionista (Agente Inteligente + Telegram)
+
+Agente que combina visão computacional + LLM para orientar alimentação, analisando refeições via imagem.
+
+🎙 MeetGPT — Transcrição e Resumo de Reuniões
+
+Web App que captura áudio, transcreve com Whisper e gera resumos contextuais com GPT.
+
+📊 Análise de Clustering RFV
+
+Segmentação de clientes para marketing baseada em comportamento.
+
+🎬 Previsão de Churn em Streaming
+
+Modelo de classificação para identificar usuários com alta probabilidade de cancelamento.
+
+🔮 Oráculo Chatbot (RAG + Streamlit + LangChain)
+
+Chat que conversa com dados próprios (YouTube, PDFs, CSVs, TXTs) usando RAG e LLMs.
+
+
+---  
+
 ## 🚀 Minhas Competências  
 
 ### **Linguagens de Programação:**  
