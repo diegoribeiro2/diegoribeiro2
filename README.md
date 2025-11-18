@@ -90,7 +90,7 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
 
 ---  
 
-## 🔥 Como entrar em contato comigo:  
+## 📫 Como entrar em contato comigo:  
 📧 **E-mail:** diegosribeiro@gmail.com  
 📞 **Telefone:** (27) 98169-4345  
 
