@@ -12,7 +12,7 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
 
 ---
 
-## 🔥 Projetos Estratégicos
+## 🔥 Projetos em Destaque
 
 ### **1. IA Generativa, RAG e Agentes**
 - **[Oráculo Chatbot](https://github.com/diegoribeiro2/Oraculo_Chatbot)**  
@@ -76,23 +76,10 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
 
 ## 🛠 Tecnologias & Ferramentas
 **Linguagens:** Python, SQL  
-**Frameworks / Bibliotecas:** FastAPI, Streamlit, LangChain, Hugging Face, Grok, MLflow, Airflow, Pandas, scikit-learn, PyTorch, XGBoost  
+**Frameworks / Bibliotecas:** FastAPI, Streamlit, LangChain, Agno, CrewAI, Hugging Face, Grok, MLflow, Airflow, Pandas, scikit-learn, PyTorch, XGBoost  
 **Cloud & Infra:** AWS, GCP, Terraform, Docker, Render, Streamlit Cloud  
 **BI & Visualização:** Power BI, Excel, Metabase  
-**Outros:** Git, GitHub Actions, VS Code, Jupyter, AgentOS, CrewAI
-
----
-
-## 📈 Estatísticas GitHub
-- **409 contributions** no último ano  
-- Atualizações consistentes em **projetos de IA e MLOps**
-
----
-
-## 📫 Contato
-- Email: diegosribeiro@gmail.com  
-- Telefone: +55 27 98169-4345  
-- [LinkedIn](https://www.linkedin.com/in/diegoribeiro/) | [Instagram](https://www.instagram.com/diegoribeiro/)
+**Outros:** Git, GitHub Actions, VS Code, Jupyter, AgentOS
 
 
 ---  
